@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="TrailerBg">#f1f8ff</color>
+    <color name="reviewBg">#eaf4fc</color>
+    <color name="mainViewBg">#eaf2f7</color>
+    <color name="first_title">#333</color>
+    <color name="second_title">#555</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="movie_card_bg">#cfe7ff</color>
+    <color name="red">#a90000</color>
+    <color name="blue">#0b6cda</color>
+
+</resources>

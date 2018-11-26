@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="inline_text_margin">6dp</dimen>
+    <dimen name="raw_height">20dp</dimen>
+    <dimen name="first_title_text_size">15sp</dimen>
+    <dimen name="second_title_text_size">14sp</dimen>
+    <dimen name="user_rate_text_size">14sp</dimen>
+    <dimen name="first_title_padding">10dp</dimen>
+    <dimen name="second_title_padding">8dp</dimen>
+    <dimen name="fav_button_height">60dp</dimen>
+    <dimen name="fav_button_width">60dp</dimen>
+    <item name="transition" format="float" type="dimen">100</item>
+    <dimen name="movie_poster_height">150dp</dimen>
+    <dimen name="item_margin">5dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="padding_layout">16dp</dimen>
+</resources>
